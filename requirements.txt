@@ -1,0 +1,7 @@
+numpy==1.23.3
+pandas==1.5.0
+protobuf==4.25.0
+Requests==2.31.0
+SQLAlchemy>=1.4.0
+google-cloud-storage
+google.cloud==0.34.0
